@@ -1,0 +1,37 @@
+{
+  "icons": [
+    {
+      "src": "/icon_512x512.57f5f6ff6bc7bb63669c87ed9c266fe3.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_384x384.cdcb83e34e32bf294ff760b6ca0620b5.png",
+      "sizes": "384x384",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_192x192.27b10aa4ece5cbc8123e3437757bde83.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_128x128.fd9faef5420ace3edbb29dbfcb0e63a9.png",
+      "sizes": "128x128",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_96x96.1b49c5cd8e1b4eaebf333a18ab76e67e.png",
+      "sizes": "96x96",
+      "type": "image/png"
+    }
+  ],
+  "name": "Black Ultra",
+  "short_name": " ",
+  "orientation": "portrait",
+  "display": "standalone",
+  "start_url": ".",
+  "description": " ",
+  "background_color": "#ffffff",
+  "theme_color": "#222831"
+}
